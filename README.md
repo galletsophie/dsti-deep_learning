@@ -7,3 +7,5 @@ This is some of my coursework.
 
 [PyTorch Lab2: Autograd](Lab2_autograd_automatic_diff.ipynb)
 
+[PyTorch Lab3: Classifier CNN](Lab3_training_classifier.ipynb)
+
