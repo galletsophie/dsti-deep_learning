@@ -9,3 +9,4 @@ This is some of my coursework.
 
 [PyTorch Lab3: Classifier CNN](Lab3_training_classifier.ipynb)
 
+[PyTorch Lab8: Object Detection](Lab8_object_detection.ipynb)
